@@ -1,0 +1,143 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "",
+    "awards": "Certificates"
+  },
+  "basics": {
+    "email": "claytonohmes@gmail.com",
+    "phone": "5734271033",
+    "location": {
+      "address": "Atlanta, GA"
+    },
+    "name": "Clayton Ohmes",
+    "website": "https://github.com/claytonohmes"
+  },
+  "education": [
+    {
+      "institution": "Missouri S&T",
+      "location": "Rolla, MO",
+      "area": "Electrical Engineering | Minor: Automation Engineering",
+      "startDate": "Aug 2016",
+      "endDate": "Dec 2020",
+      "gpa": "",
+      "studyType": "BS:"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        "Contributed to OT cybersecurity recovery, restoring application servers and connectivity across sites. Helped design and implement new network infrastructure, including firewalls and VPNs, in response to the incident.",
+        "Automated repetitive processes and resolved networking issues using Python scripts.",
+        "Created SCADA dashboards and developed PLC code to support production analytics and machine control systems.",
+        "Acted as the solution architect for a MES application’s changeover sequence, integrating with PLC systems and enhancing the productivity of operators while reducing their learning curve"
+      ],
+      "company": "The Clorox Company",
+      "position": "Senior Controls & OT Network Engineer",
+      "location": "Atlanta, GA",
+      "startDate": "Mar 2023"
+    },
+    {
+      "highlights": [
+        "Lead Electrical and Controls Engineer for various manufacturing projects around the business. Most notable responsibility is a $150M+ greenfield facility utilizing a new process to manufacture cat litter.",
+        "Standardized Active Directory and security structures across multiple plants, ensuring consistency and security in automation software management.",
+        "Built the framework for a comprehensive data historian and analytics platform, which was widely adopted across all departments. Trained site employees on its use, enabling better decision-making and operational insights."
+      ],
+      "position": "Electrical, Instrumentation, and Controls Engineer",
+      "startDate": "July 2022",
+      "endDate": "Mar 2023"
+    },
+    {
+      "highlights": [
+        "Led the controls design and commissioning of a $46 million wipes production line during the peak of the pandemic, ensuring project completion under challenging conditions.",
+        "Implemented a Windows server with automated program change management software, developing processes to track and control changes made by technicians.",
+        "Managed a team of 16 maintenance technicians across 4 shifts, coordinating downtime planning and troubleshooting efforts to ensure seamless 24/7 operations."
+      ],
+      "position": "Control System Specialist",
+      "location": "Atlanta, GA",
+      "startDate": "Jan 2021",
+      "endDate": "July 2022"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Powershell",
+        "C++",
+        "XML"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "XML",
+        "JSON",
+        "HTTP",
+        "REST"
+      ],
+      "name": "APIs and Configurations"
+    },
+    {
+      "keywords": [
+        "Cisco CLI",
+        "IPSec",
+        "NAT",
+        "VPNs",
+        "VLAN Configuration"
+      ],
+      "name": "Networking"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Deployed UDTs (User Defined Types) in PLCs across 7 sites to standardize data collection for a root cause analysis engine. Wrote XML configurations using Python to integrate the data into the analysis system.",
+      "keywords": [
+        "XML",
+        "Python",
+        "PLCs",
+        "SCADA"
+      ],
+      "name": "Machine Utilization Tracking System"
+    },
+    {
+      "keywords": [
+        "Python",
+        "SCADA",
+        "NSSM"
+      ],
+      "name": "Automated Batch Reciept Storage",
+      "description": "Added functionality to the SCADA to automate printing batch receipts to PDF under a standard naming convention. Developed a Windows service with NSSM and Python to automate copying them to the plant's file server, ensuring automatic operation on system reboot.",
+      "url": "https://github.com/claytonohmes/Copy-Directory"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Automate the Boring Stuff with Python",
+      "date": "Nov 2023",
+      "awarder": "Udemy"
+    },
+    {
+      "date": "Sep 2024",
+      "title": "Python Zero to Hero",
+      "awarder": "Udemy"
+    },
+    {
+      "title": "API and Web Service ",
+      "date": "Sep 2024",
+      "awarder": "Udemy"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
