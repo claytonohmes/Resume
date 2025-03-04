@@ -35,7 +35,6 @@
       "startDate": "Oct 2024",
       "endDate": "Present",
       "position": "Senior MES Technical Lead"
-
     },
     {
       "endDate": "Oct 2024",
@@ -45,7 +44,6 @@
         "Created SCADA dashboards and developed PLC code to support production analytics and desired control system functionality."
       ],
       "position": "Senior Controls & OT Network Engineer",
-      "location": "Atlanta, GA",
       "startDate": "Mar 2023"
     },
     {
@@ -62,42 +60,54 @@
         "Led the controls design and commissioning of a $46 million wipes production line during the peak of the pandemic, ensuring project completion under challenging conditions.",
         "Managed the programming and change management of the plant control system and a team of 16 maintenance technicians"
       ],
-      "location": "Atlanta, GA",
       "startDate": "Jan 2021",
       "endDate": "July 2022",
       "position": "Control System Specialist"
     }
-
   ],
   "skills": [
     {
       "level": "",
       "keywords": [
         "Python",
+        "Javascript",
         "Powershell",
-        "C++",
-        "XML"
+        "HTML",
+        "SQL"
       ],
-      "name": "Programming Languages"
+      "name": "Programming"
     },
     {
       "keywords": [
-        "XML",
-        "JSON",
         "HTTP",
-        "REST"
+        "XML",
+        "JSON"
       ],
       "name": "APIs and Configurations"
     },
     {
       "keywords": [
-        "Cisco CLI",
-        "IPSec",
+        "VLANs",
+        "Azure",
         "NAT",
         "VPNs",
-        "VLAN Configuration"
+        "Firewalls",
+        "Switches"
       ],
-      "name": "Networking"
+      "name": "Network Architecture"
+    },
+    {
+      "keywords": [
+        "Azure Devops",
+        "GitFlow",
+        "Windows Server",
+        "Service Accounts",
+        "linux",
+        "Docker",
+        "Pipelines",
+        "Scripting"
+      ],
+      "name": "DevOps"
     }
   ],
   "projects": [
@@ -124,19 +134,9 @@
   ],
   "awards": [
     {
-      "title": "Automate the Boring Stuff with Python",
-      "date": "Nov 2023",
-      "awarder": "Udemy"
-    },
-    {
-      "date": "Sep 2024",
-      "title": "Python Zero to Hero",
-      "awarder": "Udemy"
-    },
-    {
-      "title": "API and Web Service ",
-      "date": "Sep 2024",
-      "awarder": "Udemy"
+      "title": "Automate the Boring Stuff with Python | Python Zero to Hero | API and Web Service ",
+      "awarder": "Udemy",
+      "date": "2023-2024"
     }
   ],
   "sections": [
