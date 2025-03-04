@@ -28,7 +28,13 @@
     {
       "website": "",
       "highlights": [
-        "Stuff"
+        "Led UI/UX design for a modular, web-based MES system, ensuring seamless Go-Live deployment across 19 manufacturing sites.",
+        "Owned all UI, UX, and utilization portions, collaborating with teams for smooth system integration and data flow.",
+        "Developed JavaScript functions for dynamic web page logic and API-based data exchange (JSON/XML) with SQL Server and custom APIs.",
+        "Automated the utilization import process with Python scripts, saving 760 man hours in manual data entry and reducing errors.",
+        "Contributed to estimated $10 million per site per year in savings by reducing inventory errors and overproduction.",
+        "Implemented an inventory adjustment feature saving 10 man hours per week per site, totaling 520 man hours annually, with savings of $67,600 per site.",
+        "Wrote and optimized all Python scripts independently, ensuring high performance and data accuracy."
       ],
       "location": "Atlanta, GA",
       "company": "The Clorox Company",
